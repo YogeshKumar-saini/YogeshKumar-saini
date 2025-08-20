@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=220&section=header&text=⚡YOGESH%20SAINI⚡&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=NEURAL%20ARCHITECT%20•%20GENAI%20ALCHEMIST%20•%20CONSCIOUSNESS%20ENGINEER&descSize=18&descAlign=50&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=220&section=header&text=YOGESH%20SAINI&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=NEURAL%20ARCHITECT%20•%20GENAI%20EXPERT%20•%20AI%20ENGINEER&descSize=18&descAlign=50&descAlignY=65"/>
 
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=+AI+Engineer;+GenAi+Expert;+Agentic+Builder;Data+Scientist;MERN+Expert" alt="Typing Title"/>
