@@ -83,8 +83,8 @@
 <tr>
 <td width="50%">
 
-### 🤖 **[Agentic AI System](https://github.com/yogeshKumar-saini/agentic-ai-framework)**
-Multi-agent framework with AutoGen for complex task automation
+### 🤖 **[AI-Powered-Job-Recommender-System](https://github.com/YogeshKumar-saini/AI-Powered-Job-Recommender-System.git)**
+Ai framework with AutoGen for complex task automation
 <br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logoColor=white)
@@ -93,8 +93,8 @@ Multi-agent framework with AutoGen for complex task automation
 </td>
 <td width="50%">
 
-### 🧠 **[Smart Crop AI](https://github.com/yogeshKumar-saini/agriculture-crop-predection-using-ann-machineLearning)**
-Advanced neural network for precision agriculture with 94% accuracy
+### 🧠 **[CoverCast-AI](https://github.com/YogeshKumar-saini/CoverCast-AI.git)**
+  Minimized processing latency by 20% through optimized feature extraction.
 <br>
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -115,7 +115,7 @@ Enterprise RAG system with vector embeddings & semantic search
 </td>
 <td>
 
-### 📊 **[ML Operations Pipeline](https://github.com/yogeshKumar-saini/mlops-production-pipeline)**
+### 📊 **[https://github.com/YogeshKumar-saini/Fake-Review-Detection)**
 End-to-end MLOps with automated model deployment & monitoring
 <br>
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logoColor=white)
