@@ -115,7 +115,7 @@ Enterprise RAG system with vector embeddings & semantic search
 </td>
 <td>
 
-### 📊 **[https://github.com/YogeshKumar-saini/Fake-Review-Detection)**
+### 📊 **[Fake-Review-Detection](https://github.com/YogeshKumar-saini/Fake-Review-Detection)**
 End-to-end MLOps with automated model deployment & monitoring
 <br>
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logoColor=white)
