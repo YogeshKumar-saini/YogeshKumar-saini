@@ -197,5 +197,8 @@ End-to-end MLOps with automated model deployment & monitoring
 
 
 
+![Snake animation](https://github.com/YogeshKumar-saini/YogeshKumar-saini/blob/output/snake.svg)
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,30:F59E0B,60:7C3AED,100:00D4FF&height=100&section=footer&animation=twinkling&fontColor=FFFFFF"/>
